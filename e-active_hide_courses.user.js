@@ -2,11 +2,10 @@
 // @name        e-active_hide_courses
 // @namespace   e-active_hide_courses
 // @include     http://eactive.cti.ac.za/
-// @version     1.0.6
+// @version     1.0.0
 // @grant       none
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
 // @downloadURL https://github.com/JackRough/e-active-hide-courses/raw/master/e-active_hide_courses.user.js
-// @updateURL   https://github.com/JackRough/e-active-hide-courses/raw/master/e-active_hide_courses.user.js
 // ==/UserScript==
 
 
