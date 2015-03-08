@@ -5,6 +5,7 @@
 // @version     1.0.1
 // @grant       none
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
+// @updateURL   https://github.com/JackRough/e-active-hide-courses/raw/master/e-active_hide_courses.user.js
 // @downloadURL https://github.com/JackRough/e-active-hide-courses/raw/master/e-active_hide_courses.user.js
 // ==/UserScript==
 
