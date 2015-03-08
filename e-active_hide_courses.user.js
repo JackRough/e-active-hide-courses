@@ -41,6 +41,7 @@ var courseBoxFilters = [
     ,"CTI Tablet"
     ,"CTI Newsletters"
 	,"Harvard Referencing Method"
+	,"Cape Town IT Students"
 ];
 
 debugAlert("STOP");
